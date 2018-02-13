@@ -1,7 +1,7 @@
 # mural
 Todo acerca de la programación necesaria para el mural de los talleres antropoloops, II trimestre, primer año.
 
-## Sonic Pi + Makey makey
+## Opción Sonic Pi + Makey makey
 Una posible solución es usar Sonic Pi para lanzar los loops y un script de python para escuchar el input del makey makey y lanzar los mensajes OSC.
 
 Ejemplo que podemos usar de base: [Sonic Pi goes Bananas](https://alcluith.wordpress.com/2018/01/25/sonic-pi-goes-bananas/)
@@ -17,4 +17,5 @@ Para que Sonic Pi pueda recibir y enviar OSC tiene que ser la [versión 3.0](htt
 
 Sonic Pi 3.0 viene preinstalado para [Raspbian Strech](https://www.raspberrypi.org/blog/raspbian-stretch/)
 
-
+Posibles dificultades:
+* Cómo hacer que esto funcione en la Raspberry Pi sin monitor, es decir que tendría que arrancar todo automáticamente al arrancar la Pi.
