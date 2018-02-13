@@ -13,7 +13,9 @@ Algunos enlaces que han ayudado a Espe a instalar Pygame en Mac:
 * https://pygame.org/wiki/macintosh
 * https://pygame-zero.readthedocs.io/en/stable/installation.html#on-osx
 
-Para que Sonic Pi pueda recibir y enviar OSC tiene que ser la [versión 3.0](https://github.com/samaaron/sonic-pi/blob/master/CHANGELOG.md#v3.0) 
+Para que Sonic Pi pueda recibir y enviar OSC tiene que ser la [versión 3.0](https://github.com/samaaron/sonic-pi/blob/master/CHANGELOG.md#v3.0)
+
+[Documentación Sonic Pi para recibir mensajes OSC](https://github.com/samaaron/sonic-pi/blob/master/etc/doc/tutorial/12.1-Receiving-OSC.md)
 
 Sonic Pi 3.0 viene preinstalado para [Raspbian Strech](https://www.raspberrypi.org/blog/raspbian-stretch/)
 
