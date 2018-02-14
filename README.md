@@ -21,3 +21,9 @@ Sonic Pi 3.0 viene preinstalado para [Raspbian Strech](https://www.raspberrypi.o
 
 Posibles dificultades:
 * Cómo hacer que esto funcione en la Raspberry Pi sin monitor, es decir que tendría que arrancar todo automáticamente al arrancar la Pi.
+
+## Enlaces de interés
+
+* [MANUAL SONIC PI](https://chuletitaspinguino.files.wordpress.com/2015/12/man_sonic_pi.pdf)
+* [Sonic Pi cheat sheet](http://www.cl.cam.ac.uk/projects/raspberrypi/sonicpi/media/sonic-pi-cheatsheet.pdf)
+
