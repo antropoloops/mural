@@ -1,0 +1,6 @@
+* pasos seguidos
+1. conectado rasberrypi a monitor, con teclado y raton y wifi
+2. clonado este repo
+3. install vim
+3.1. sudo apt-get update
+3.2. sudo apt-get install vim
