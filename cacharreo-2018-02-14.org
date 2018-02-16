@@ -1,6 +1,12 @@
-* pasos seguidos
+* Miércoles 14 de Febrero 2018
+------------
+
+objetivo: instalación en RPI de lo necesario para conectar MKMK y poder hacer sonidos via OSC y SonicPi
+
+
+#  pasos seguidos
 1. conectado rasberrypi a monitor, con teclado y raton y wifi
 2. clonado este repo
 3. install vim
-3.1. sudo apt-get update
-3.2. sudo apt-get install vim
+	sudo apt-get update
+	sudo apt-get install vim
